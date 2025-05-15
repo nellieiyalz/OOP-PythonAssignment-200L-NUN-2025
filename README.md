@@ -1,12 +1,14 @@
-# Python Snake
+# Python Hotel Management System
 
-The classic snake game made in [Python pygame](https://www.pygame.org/docs/).
+A Hotel Management System Created in python using tkinter [Python TKinter]([https://www.pygame.org/docs/](https://docs.python.org/3/library/tk.html)).
 
 ## Basic Instructions
 
-Use the arrow keys to move: the left arrow key to move left, the right arrow key to move right, the up arrow key to move up, and the down arrow key to move down.
+Launch the gui and add a room to the database using the add room button 
+1. Create a room using the add room button.
+2. Select a room and book a reservation.
 
-## Download and Play
+## Download and Run
 
 1. Make sure you have Python installed. Install Python at [python.org](https://www.python.org/downloads/).
 2. Download the folder from github
